@@ -1,6 +1,6 @@
 <h1 align="center">Hey There 👋, I'm Ahadu</h1>
 <h3 align="center">A Full Stack Web Application Developer From Ethiopia</h3>
-<img src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" style="width:60vw; height:55vh;"/>
+<img src="[https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif](https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif)" style="width:60vw; height:55vh;"/>
 
 - 🔭 I’m currently working on **ERP development in Laravel & Vue **
 
