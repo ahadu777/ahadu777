@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/399/620/png-transparent-laravel-hd-logo.png" alt="laravel" width="150" height="100"  /> </a>
+   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.tutorsvalley.com/public/storage/uploads/course/1632225623-laravel.jpg" alt="laravel" width="150" height="100"  /> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="150" height="100"/> </a>
  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="150" height="100"/> </a> 
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="150" height="100"/> </a>
