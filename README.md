@@ -2,9 +2,9 @@
 <h3 align="center">A Full Stack Web Application Developer From Ethiopia</h3>
 <img src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" style="width:60vw; height:55vh;"/>
 
-- 🔭 I’m currently working on **Laravel & React**
+- 🔭 I’m currently working on **Laravel & Node**
 
-- 🌱 I’m currently learning **bot development**
+- 🌱 I’m currently learning **bot development** ,  **directus** ,  **MCP**
 
 - 👯 I’m looking to collaborate on **Laravel and Vue Projects** any **MERN Projects**
 
