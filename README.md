@@ -77,9 +77,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahadu4321&show_icons=true&theme=radical" alt="Ahadu's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahadu777&show_icons=true&theme=radical" alt="Ahadu's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahadu4321&theme=radical" alt="Ahadu's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahadu777&theme=radical" alt="Ahadu's GitHub streak"/>
 </p>
 
 ---
