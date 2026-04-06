@@ -9,7 +9,7 @@
 
 ### 🔥 About Me
 
-🚀 **Backend Engineer at Synque Pvt Ltd (Hong Kong)** — working remotely  
+🚀 **Backend Heavy Fullstack Engineer** 
 💡 Passionate about **building scalable, automation-driven systems**  
 ⚙️ Experienced in **Laravel**, **Next.js**, **Node.js**, **Directus**, and **DevOps workflows**  
 🤖 Integrating **AI tools** to automate **reporting, analytics, and productivity**  
